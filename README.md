@@ -1,4 +1,4 @@
-# Fullstack Vue
+# Vue Calendar
 
 ## Single-file components - Calendar App
 
